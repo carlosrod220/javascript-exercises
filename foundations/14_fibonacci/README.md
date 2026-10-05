@@ -10,3 +10,10 @@ Create a function that returns a specific member of the Fibonacci sequence:
 fibonacci(4); // returns the 4th member of the series: 3  (1, 1, 2, 3)
 fibonacci(6); // returns 8
 ```
+
+<!-- 
+// the program should take in a number n and then go through the fibonacci sequemce. 
+// the program should print out what is at index position n[i];
+
+// start with with 0
+    // 0 + 1 = 1. fibonacci[0] = 1 -->
